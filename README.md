@@ -1,0 +1,2 @@
+# Stardly
+Ai powered app
